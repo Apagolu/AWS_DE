@@ -1,5 +1,5 @@
 import configparser
-# modify1
+
 # get config details
 config = configparser.ConfigParser()
 config.read('dwh.cfg')

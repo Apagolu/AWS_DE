@@ -1,4 +1,4 @@
-# Sparkify : Cloud-Based Data Warehouse Project
+# Sparkify :: Cloud-Based Data Warehouse Project
 
 ## Introduction
 
