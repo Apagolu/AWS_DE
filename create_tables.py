@@ -2,7 +2,7 @@ import configparser
 import psycopg2
 from sql_queries import create_table_queries, drop_table_queries
 
-
+#drop  tables
 def drop_tables(cur, conn):
     """accepts connection parameters and drops all tables and returns nothing"""
     for query in drop_table_queries:
